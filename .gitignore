@@ -1,0 +1,5 @@
+bin/
+ovj/
+*.cbp
+*.depend 
+*.exe
